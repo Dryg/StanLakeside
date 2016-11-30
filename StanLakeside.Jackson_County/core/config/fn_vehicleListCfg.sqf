@@ -1288,7 +1288,7 @@ switch (_shop) do
 	{
 		_return =
 		[
-			["cg_brinks_bank_noir",250000],
+			["cg_brinks_bank_noir",25000],
 			["shounka_transam_noir",30000],
 			["IVORY_PRIUS",30000],
 			["ivory_supra",30000],
@@ -1317,6 +1317,17 @@ switch (_shop) do
 			["IVORY_R8SPYDER",30000],
 			["IVORY_REV",30000],	
 			["ivory_lfa",30000],
+			["ivory_m3_gts_Hess_Company",30000],
+ 			["ivory_wrx_hess",30000],
+			["shounka_rs6_violet",30000],
+			["shounka_rs6_jaune",30000],
+			["shounka_rs6_rouge",30000],
+			["shounka_rs6_rose",30000],
+			["shounka_rs6_orange",30000],
+			["shounka_rs6_violet",30000],
+			["shounka_rs6_grise",30000],
+			["shounka_rs6_bleufonce",30000],
+			["shounka_rs6_noir",30000],
 			["BMWX5_01",30000],
 			["BMWX5_02",30000],
 			["BMWX5_03",30000],
